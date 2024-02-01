@@ -17,3 +17,6 @@ Built-in RTC
 Digital Inputs
 Analog Inputs with 4-20mA
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1Y4icMud4OS4VA8eHdR38Yi1Ce8GeBOWa&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1eO30w5Etbboye4UcCU57M4n_u-AArrS1&usp=drive_fs
