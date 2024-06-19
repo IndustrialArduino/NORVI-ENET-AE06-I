@@ -4,7 +4,7 @@
  * Ethernet Check     
  * All Output Turn ON Series
  * All input status serial print
- *  Turns ON All Outputs in series
+ * Turns ON All Outputs in series
  * Serial prints all the input status
  */
 
