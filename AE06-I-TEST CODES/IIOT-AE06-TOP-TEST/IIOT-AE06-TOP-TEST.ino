@@ -34,14 +34,6 @@
 #define OUTPUT3 12
 #define OUTPUT4 13
 
-#define RS485_RX 25
-#define RS485_TX 26
-#define RS485_FC 22
-
-#define GSM_RX 33
-#define GSM_TX 32
-#define GSM_RESET 21
-
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
 
